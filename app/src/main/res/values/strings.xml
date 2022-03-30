@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Dice Roller</string>
+    <string name="_1">1</string>
+    <string name="roll">Roll</string>
+    <string name="channel_name">dice roller</string>
+    <string name="channel_description">Dice roller game</string>
+    <string name="dice_image">dice image</string>
+</resources>
