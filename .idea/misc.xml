@@ -3,9 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/ERICO/Documents/DiceRoller/app/src/main/res/drawable-v24/ic_star.xml" value="0.20833333333333334" />
         <entry key="..\:/Users/ERICO/Documents/DiceRoller/app/src/main/res/drawable/dice_1.xml" value="0.1046875" />
         <entry key="..\:/Users/ERICO/Documents/DiceRoller/app/src/main/res/drawable/empty_dice.xml" value="0.20833333333333334" />
-        <entry key="..\:/Users/ERICO/Documents/DiceRoller/app/src/main/res/layout/activity_main.xml" value="0.1921875" />
+        <entry key="..\:/Users/ERICO/Documents/DiceRoller/app/src/main/res/layout/activity_animate.xml" value="0.1921875" />
+        <entry key="..\:/Users/ERICO/Documents/DiceRoller/app/src/main/res/layout/activity_main.xml" value="0.25" />
       </map>
     </option>
   </component>
